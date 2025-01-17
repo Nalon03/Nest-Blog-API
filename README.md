@@ -73,6 +73,7 @@ npm run test:e2e
 # Test coverage
 npm run test:cov
 ```
-
+## Contact
+For contributions and collaboration, please get in touch with Grace Yaa Nalon.
 
 
